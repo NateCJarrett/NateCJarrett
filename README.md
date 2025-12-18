@@ -1,6 +1,5 @@
 ## Greetings 👋
 ### I'm a Computer Engineering undergrad at the University of California Santa Cruz interested in cyber-physical, network, and computer security
-- 🌱 I'm currently working on my INE ICCA certification
 
 <!--
 **NateCJarrett/NateCJarrett** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
